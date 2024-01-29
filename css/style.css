@@ -1,0 +1,48 @@
+.main-header{
+    background-color: rgb(0, 140, 255);
+    background-image: url(../img/pattern.png);
+    margin: 0;
+
+}
+
+.logo{
+    width: 200px;
+}
+
+.description{
+    margin: 0;
+    font-size: 15px;
+}
+
+th{
+    color: white;
+    background-color: rgb(0, 204, 255);
+}
+
+.color-list{
+    background-color: aqua;
+}
+
+h5{
+    color: gray;
+}
+
+.footer{
+margin: 0;
+}
+
+.other-post{
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    color: white;
+    width: 240px;
+    height: 150px;
+
+}
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+
